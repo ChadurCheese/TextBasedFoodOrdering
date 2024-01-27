@@ -1,0 +1,19 @@
+Category = Italian
+Name = Pizza
+Price = 7.99
+Restaurant = Olive Garden
+
+Category = Italian
+Name = Spaghetti
+Price = 7.99
+Restaurant = Olive Garden
+
+Category = Italian
+Name = Lasagna
+Price = 11.99
+Restaurant = Olive Garden
+
+Category = American
+Name = Cheeseburger
+Price = 4.99
+Restaurant = Burger Factory
